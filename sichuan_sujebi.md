@@ -3,7 +3,7 @@
 * Serves: 2
 * Prep: 60 mins
 * Active: 15 mins
-* Difficulty: 4/10
+* Difficulty: 5/10
 
 ## Description
 A mix of Shui Zhu Yu (水煮鱼) with Sujebi (수제비).
@@ -39,10 +39,11 @@ A mix of Shui Zhu Yu (水煮鱼) with Sujebi (수제비).
 8. Add the garlic and ginger to the oil.
 9. Before the garlic turns brown (around 30 seconds), add the chili bean sauce and soy sauce then mix well.
 10. After about a minute, add the stock back into the pot.
-12. Once boiling, add potatoes and let simmer for about 8 minutes.
+11. Once boiling, add potatoes and let simmer for about 5 minutes.
+12. Take the dough out from the fridge, and hand tear off bite size pieces directly into the boiling water.
 13. Add protein and simmer for about 2 minutes (until cooked).
-14. Turn heat off, pour into individual serving bowls (or not).
+14. Once everything is fully cooked, turn heat off, pour into individual serving bowls (or not).
 15. Heat up 3 Tbsp of vegetable oil in a pan.
-13. Sprinkle the crushed sichuan peppercorn and red pepper flakes on each bowl.
-14. Once the oil is hot, pour oil onto the peppercorn and pepper flakes.
-15. Top with sliced scallion.
+16. Sprinkle the crushed sichuan peppercorn and red pepper flakes on each bowl.
+17. Once the oil is hot, pour oil onto the peppercorn and pepper flakes.
+18. Top with sliced scallion.
