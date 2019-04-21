@@ -27,7 +27,7 @@ A mix of Shui Zhu Yu (水煮鱼) with Sujebi (수제비).
 * Choice of protein (Firm fish fillets or sliced beef/pork)
 * Lots of vegetable oil
 
-## Method
+## Directions
 1. Combine dough ingredients into a stand mixer with dough hook and knead for about 3 minutes (or by hand for 10 minutes) until dough is firm enough to pick up.
 2. Wrap dough in plastic wrap and let it sit in the fridge for an hour. ```Needs testing for chewier dough```
 3. Add some dried kelp and 6 cups of water to a large pot. Bring to a boil over medium high heat.
