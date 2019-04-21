@@ -1,2 +1,2 @@
 # recipes
-mah recipies
+mah recipes
