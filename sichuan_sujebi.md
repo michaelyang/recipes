@@ -20,7 +20,7 @@ A mix of Shui Zhu Yu (水煮鱼) with Sujebi (수제비).
 * `½ Tbsp` Ginger, grated (Roughly ½ inch)
 * `2 Tbsp` Chili bean sauce (Toban Djan, 辣豆瓣醬)
 * `1 Tbsp` Soy sauce
-* `1` medium potato, diced (Optional, could use corn starch slurry instead to make the borth thicker)
+* `1` medium potato, diced (Optional, could use corn starch slurry instead to make the broth thicker)
 * `1` scallion, thinly sliced
 * `½ Tbsp` Sichuan peppercorn (Optional, recommended)
 * `½ Tbsp` Korean red pepper flakes (Optional, recommended)
